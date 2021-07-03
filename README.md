@@ -11,7 +11,7 @@ Models with 224 input only.
 
 Batchsize = 4.
 
-|FIELD1                          |fp32              |top1             |
+|FIELD1                          |inference time (ms)              |top1             |
 |--------------------------------|------------------|-----------------|
 |swin_large_patch4_window7_224   |19.50279474258423 |89.796           |
 |vit_large_patch16_224           |24.370009899139404|89.314           |
