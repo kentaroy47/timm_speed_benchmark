@@ -16,7 +16,7 @@ CPU: Ryzen 3600
 
 * Table of results ('results_fp32_imsizeall.csv')
 
-|FIELD1                                                |fp32              |top1  |imsize|
+|FIELD1                                                |fp32[ms]              |top1  |imsize|
 |------------------------------------------------------|------------------|------|------|
 |eva02_large_patch14_448.mim_m38m_ft_in22k_in1k        |171.2168550491333 |91.129|448.0 |
 |eva_giant_patch14_336.clip_ft_in1k                    |166.4306116104126 |91.058|336.0 |
