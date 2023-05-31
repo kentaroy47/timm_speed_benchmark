@@ -8,11 +8,11 @@ CPU: Ryzen 3600
 
 # Results
 
-* Pareto-front
+* Pareto-front (thanks to @yu4u)
 
 ![](fig/results.jpg)
 
-
+![](fig/pareto.png)
 
 * Table of results ('results_fp32_imsizeall.csv')
 
