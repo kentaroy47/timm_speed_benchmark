@@ -7,7 +7,14 @@ GPU: RTX A6000
 CPU: Ryzen 3600
 
 # Results
-Batchsize = 4.
+
+* Pareto-front
+
+![](fig/results.jpg)
+
+
+
+* Table of results ('results_fp32_imsizeall.csv')
 
 |FIELD1                                                |fp32              |top1  |imsize|
 |------------------------------------------------------|------------------|------|------|
